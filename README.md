@@ -1,4 +1,4 @@
-#<h1>Shrey</h1>
+/*<h1>Shrey</h1>*/
 
 <h1 align="center">Hi 👋, I'm Shrey Kumar Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
